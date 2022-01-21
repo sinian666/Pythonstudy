@@ -1,0 +1,15 @@
+#数据类型的转换
+a=100
+print(type(a),a)
+#整型转变为字符串类型
+b=str(a)
+print(type(b),b)
+c=3.56
+print(type(c),c)
+d=str(c)
+print(type(d),d)
+e=False
+f=int(e)
+print(type(f),f)
+a='1'#这是一个字符串，因为加了单引号，加双引号效果一样。
+print(type(a))

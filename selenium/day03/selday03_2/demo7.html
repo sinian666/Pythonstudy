@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function chinese() {
+            w = document.getElementById('week')
+            if(w.value == 'Monday') {
+                alert('星期一')
+            }
+            else if(w.value == 'Tuesday') {
+                alert('星期二')
+            }
+            else if(w.value == 'Wednesday') {
+                alert('星期三')
+            }
+            else if(w.value == 'Thursday') {
+                alert('星期四')
+            }
+            else if(w.value == 'Friday') {
+                alert('星期五')
+            }
+            else if(w.value == 'Saturday') {
+                alert('星期六')
+            }
+            else if(w.value == 'Sunday') {
+                alert('星期日')
+            }
+        }
+    </script>
+</head>
+<body>
+    请输入英文星期：<input type="text" id="week"><br>
+    <input type="button" value="中文" onclick="chinese()">
+</body>
+</html>

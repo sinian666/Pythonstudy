@@ -1,0 +1,43 @@
+1631174283251	geckodriver	INFO	geckodriver 0.19.1
+1631174283267	geckodriver	INFO	Listening on 127.0.0.1:55414
+1631174286325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.gm9GKOfYD8fH"
+1631174288574	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1631174300579	Marionette	INFO	Listening on port 55423
+1631174303280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631174303401	Marionette	DEBUG	Register listener.js for window 4294967297
+1631174304488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631174307047	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631174307047	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631174307260	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/"
+1631174311881	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/"
+1631174314952	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/"
+1631174315008	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/"
+1631174315008	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/"
+1631174315813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/goods.php?id=9"
+1631174315846	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/goods.php?id=9"
+1631174318214	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1631174320429	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/goods.php?id=9"
+1631174320625	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/goods.php?id=9"
+1631174320626	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/goods.php?id=9"
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://192.168.0.207/ecshop/js/shopping_flow.js, line 528: unreachable code after return statement
+1631174320730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/flow.php?step=cart"
+1631174320861	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/flow.php?step=cart"
+1631174497989	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1631174573055	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1631174585116	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

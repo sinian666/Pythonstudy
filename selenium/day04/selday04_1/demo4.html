@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function getCon() {
+            a = document.getElementById('a')
+            c = document.getElementById('c')
+            alert(a.innerText)
+            alert(c.innerText)
+        }
+        function setCon() {
+            a = document.getElementById('a')
+            c = document.getElementById('c')
+            a.innerText = 'hello'
+            c.innerText = 'haha'
+        }
+    </script>
+</head>
+<body>
+    <input type="button" value="修改内容" onclick="setCon()">
+    <input type="button" value="获取内容" onclick="getCon()">
+    <div id="a">aaaaaaaaaa</div>
+    <div id="b">ccccccccccccccccc</div>
+    aaaaa<span id="c">bbbbbbbbbbb</span>cccccccccccc
+</body>
+</html>

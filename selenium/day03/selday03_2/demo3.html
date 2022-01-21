@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function calc() {
+            a = document.getElementById('one')
+            b = document.getElementById('two')
+            c = document.getElementById('sum')
+            c.value = parseInt(a.value) + parseInt(b.value)
+        }
+    </script>
+</head>
+<body>
+    第一个数：<input type="text" id="one"><br>
+    第二个数：<input type="text" id="two"><br>
+    和：<input type="text" id="sum"><br>
+    <input type="button" value="计算" onclick="calc()">
+</body>
+</html>

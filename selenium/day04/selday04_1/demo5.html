@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function getSty() {
+            a = document.getElementById('a')
+            alert(a.style.color)
+            alert(a.style.fontSize)
+        }
+        function setSty() {
+            a = document.getElementById('a')
+            a.style.fontSize = '60px'
+            a.style.color = 'red'
+        }
+    </script>
+</head>
+<body>
+    <div id="a" style="font-size: 40px;color: blueviolet">
+        aaaaaaaaaaaa
+    </div>
+    <input type="button" value="获取样式值" onclick="getSty()">
+    <input type="button" value="修改样式" onclick="setSty()">
+</body>
+</html>

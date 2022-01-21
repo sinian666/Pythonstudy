@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function getAtt() {
+            p = document.getElementById('p')
+            alert(p.getAttribute('width'))
+            alert(p.getAttribute('height'))
+        }
+        function changeImg() {
+            p = document.getElementById('p')
+            p.setAttribute('src' , 'wp2.jpg')
+        }
+    </script>
+</head>
+<body>
+    <img src="wp1.jpg" width="300" height="320" id="p"><br>
+    <input type="button" value="获取属性值" onclick="getAtt()">
+    <input type="button" value="更换图片" onclick="changeImg()">
+</body>
+</html>

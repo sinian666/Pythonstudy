@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function changeImg() {
+            p = document.getElementById('pic')
+            if(p.getAttribute('src') == 'wp1.jpg'){
+                p.setAttribute('src' , 'wp2.jpg')
+            }
+            else{
+                p.setAttribute('src' , 'wp1.jpg')
+            }
+        }
+    </script>
+</head>
+<body>
+    <img src="wp1.jpg" width="300" height="310" id="pic"><br>
+    <input type="button" value="切换图片" onclick="changeImg()">
+</body>
+</html>

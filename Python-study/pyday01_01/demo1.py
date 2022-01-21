@@ -1,0 +1,11 @@
+a=168
+print(a)
+print(type(a))
+b=9.98
+print(b)
+c="hello,world"
+print(c)
+d1=True
+d2=False
+print(d1,d2)
+print(type(d1))

@@ -1,0 +1,155 @@
+1631151981828	geckodriver	INFO	geckodriver 0.19.1
+1631151981890	geckodriver	INFO	Listening on 127.0.0.1:53471
+1631151985026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.RRT0lkAnBNU1"
+1631151987460	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631151996200	Marionette	INFO	Listening on port 53480
+1631151997014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631151997321	Marionette	DEBUG	Register listener.js for window 4294967297
+1631151998693	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631151999872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631151999872	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631152000330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/"
+1631152001184	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/"
+1631152004274	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/"
+1631152004330	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/"
+1631152004330	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/"
+1631152004410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631152004789	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631152008009	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631152008833	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631152008834	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631152008870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631152008887	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631152010943	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631152010987	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631152010988	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631152011031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152011084	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152013151	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152013210	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152013211	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152013275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631152013332	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631152016494	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631152016539	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631152016539	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631152016607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631152016622	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631152018691	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631152018740	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631152018740	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631152018790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152018839	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152020910	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152020959	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152020959	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152021012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631152021024	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631152024286	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631152024347	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631152024347	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631152024392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631152024398	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631152026475	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631152026519	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631152026519	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631152026574	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631152026605	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=logout"
+[GFX1-]: Unrecognized feature WEBRENDER
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+1631157823496	geckodriver	INFO	geckodriver 0.19.1
+1631157823574	geckodriver	INFO	Listening on 127.0.0.1:53820
+1631157826741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.Gjvxsf41cmXK"
+1631157832333	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631157840250	Marionette	INFO	Listening on port 53829
+1631157841945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631157842019	Marionette	DEBUG	Register listener.js for window 4294967297
+1631157842111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631157842822	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631157842823	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631157843115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/"
+1631157843992	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/"
+1631157847068	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/"
+1631157847113	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/"
+1631157847114	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/"
+1631157847419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157847661	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=register"
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1631157932103	geckodriver	INFO	geckodriver 0.19.1
+1631157932134	geckodriver	INFO	Listening on 127.0.0.1:53970
+1631157935192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.J4vi2TWm4Z1V"
+1631157937161	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631157942573	Marionette	INFO	Listening on port 53978
+1631157942734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631157942795	Marionette	DEBUG	Register listener.js for window 4294967297
+1631157942825	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631157943245	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631157943245	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631157943505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/"
+1631157944989	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/"
+1631157948040	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/"
+1631157948093	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/"
+1631157948093	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/"
+1631157948222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157948282	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157952824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1631157952950	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157953015	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157953016	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157953054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631157953088	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631157955161	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631157955209	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631157955209	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631157955265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631157955308	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631157958379	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631157958429	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631157958430	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631157958473	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157958512	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157962366	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1631157962470	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157962520	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157962520	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php?act=register"
+1631157962586	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631157962649	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631157964695	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/user.php"
+1631157964745	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/user.php"
+1631157964745	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/user.php"
+1631157964783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php?act=logout"
+1631157965075	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php?act=logout"
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

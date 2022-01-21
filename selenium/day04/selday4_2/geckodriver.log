@@ -1,0 +1,378 @@
+1631511608310	geckodriver	INFO	geckodriver 0.19.1
+1631511608403	geckodriver	INFO	Listening on 127.0.0.1:57305
+1631511611227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.L9Q4BgDuKsT7"
+1631511614402	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631511633562	Marionette	INFO	Listening on port 57315
+1631511637729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631511637855	Marionette	DEBUG	Register listener.js for window 4294967297
+1631511638860	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631511639409	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631511639409	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631511642237	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.12306.cn/index/"
+1631511648974	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.12306.cn/index/"
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4196, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Promise rejected while context is inactive: Message manager disconnected
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource:///modules/sessionstore/SessionSaver.jsm, line 186: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1631511940174	geckodriver	INFO	geckodriver 0.19.1
+1631511940314	geckodriver	INFO	Listening on 127.0.0.1:57567
+1631511943590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.p7bevm0x9fKg"
+1631511947436	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1000B,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+1631511986178	Marionette	INFO	Listening on port 57575
+1631511991557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631511992956	Marionette	DEBUG	Register listener.js for window 4294967297
+1631511995206	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631511995676	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631511995676	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631511998663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.12306.cn/index/"
+1631512015296	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.12306.cn/index/"
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631512075199	geckodriver	INFO	geckodriver 0.19.1
+1631512075230	geckodriver	INFO	Listening on 127.0.0.1:57681
+1631512078678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.aATM7Kk99JeO"
+1631512082591	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631512090328	Marionette	INFO	Listening on port 57689
+1631512090681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631512090858	Marionette	DEBUG	Register listener.js for window 4294967297
+1631512091942	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631512092075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631512092076	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631512092631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.12306.cn/index/"
+1631512094642	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.12306.cn/index/"
+[Parent 8636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 556: TypeError: this.tablesData[table] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1631512501179	geckodriver	INFO	geckodriver 0.19.1
+1631512501194	geckodriver	INFO	Listening on 127.0.0.1:57748
+1631512504299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.gntDZ6qtKypi"
+1631512506577	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1631512511503	Marionette	INFO	Listening on port 57756
+1631512511894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631512511981	Marionette	DEBUG	Register listener.js for window 4294967297
+1631512512351	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631512513064	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631512513064	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631512513515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.12306.cn/index/"
+1631512515890	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.12306.cn/index/"
+[GFX1-]: Unrecognized feature WEBRENDER
+[Parent 4896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+1631513651117	Marionette	INFO	Listening on port 57839
+1631513655128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631513655221	Marionette	DEBUG	Register listener.js for window 4294967297
+1631513656115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631513657007	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631513657007	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631513657437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.12306.cn/index/"
+1631513661039	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.12306.cn/index/"
+1631513666474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1631513819571	geckodriver	INFO	geckodriver 0.19.1
+1631513819602	geckodriver	INFO	Listening on 127.0.0.1:57916
+1631513822785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.eLMfgCyHoLl9"
+1631513826905	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631513833110	Marionette	INFO	Listening on port 57924
+1631513833494	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631513833591	Marionette	DEBUG	Register listener.js for window 4294967297
+1631513833843	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631513834964	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631513834964	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631513835369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.12306.cn/index/"
+1631513837785	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.12306.cn/index/"
+[Parent 10016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631513882272	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GFX1-]: Unrecognized feature WEBRENDER
+[Parent 10016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1631515503202	geckodriver	INFO	geckodriver 0.19.1
+1631515503217	geckodriver	INFO	Listening on 127.0.0.1:58076
+1631515506369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.e3vm8MCBdKat"
+1631515508405	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631515513550	Marionette	INFO	Listening on port 58085
+1631515514078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631515514176	Marionette	DEBUG	Register listener.js for window 4294967297
+1631515514208	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631515514785	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631515514785	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631515514999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/"
+1631515516459	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/"
+1631515519524	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.0.207/ecshop/"
+1631515519568	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/"
+1631515519569	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/"
+1631515519636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631515520008	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631515524406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+unload" for "http://192.168.0.207/ecshop/"
+1631515596815	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.0.207/ecshop/"
+1631515596816	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.0.207/ecshop/"
+1631515596900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://192.168.0.207/ecshop/user.php"
+1631515597087	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.0.207/ecshop/user.php"
+1631515601396	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1631516697542	geckodriver	INFO	geckodriver 0.19.1
+1631516697573	geckodriver	INFO	Listening on 127.0.0.1:58345
+1631516700693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.iKnp7r1SPcgQ"
+1631516702656	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631516707643	Marionette	INFO	Listening on port 58353
+1631516708220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631516708287	Marionette	DEBUG	Register listener.js for window 4294967297
+1631516708311	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631516708320	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631516708320	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631516708321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631516709423	Marionette	DEBUG	Register listener.js for window 8589934593
+1631516709490	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1631516709672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/disp.html"
+1631516709681	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/disp.html"
+[GFX1-]: Unrecognized feature WEBRENDER
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+1631517745511	geckodriver	INFO	geckodriver 0.19.1
+1631517745542	geckodriver	INFO	Listening on 127.0.0.1:58507
+1631517748662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.QCQl8HRGujnb"
+1631517751328	Marionette	INFO	Enabled via --marionette
+[GFX1-]: Could not get a DXGI adapter
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Could not get a DXGI adapter
+[GFX1-]: Could not get a DXGI adapter
+1631517756739	Marionette	INFO	Listening on port 58516
+1631517757288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631517757389	Marionette	DEBUG	Register listener.js for window 4294967297
+1631517757444	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631517758147	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631517758147	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631517758994	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.163.com/"
+1631517766846	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1631517766847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1631517766847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1631517766849	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1631517766850	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967334"
+1631517766851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1631517766852	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1631517766853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967348"
+1631517766853	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1631517766854	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1631517766856	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1631517766858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967368"
+1631517766858	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1631517766859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967364"
+1631517766859	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1631517766866	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967382"
+1631517766893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967386"
+1631517766894	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1631517766895	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1631517766897	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967398"
+1631517766898	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967402"
+1631517766900	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967408"
+1631517766901	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1631517766902	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967406"
+1631517766903	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967418"
+1631517766904	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967420"
+1631517766907	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967404"
+1631517766990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1631517766992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967430"
+1631517766999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967438"
+1631517767016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967436"
+1631517770927	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.163.com/"
+[GFX1-]: Unrecognized feature WEBRENDER
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+1631519311640	geckodriver	INFO	geckodriver 0.19.1
+1631519311640	geckodriver	INFO	Listening on 127.0.0.1:58697
+1631519314729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dingce\\AppData\\Local\\Temp\\rust_mozprofile.vRlve2sVz3e4"
+1631519316890	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1631519322046	Marionette	INFO	Listening on port 58705
+1631519322311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631519322401	Marionette	DEBUG	Register listener.js for window 4294967297
+1631519322467	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1631519323257	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1631519323257	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1631519324430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.163.com/"
+1631519332017	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1631519332424	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1631519332425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1631519332427	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967336"
+1631519332443	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1631519332444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967344"
+1631519332445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967346"
+1631519332446	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1631519332447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967356"
+1631519332457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967360"
+1631519332458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967330"
+1631519332459	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967366"
+1631519332460	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967370"
+1631519332462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967376"
+1631519332462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967374"
+1631519332462	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967380"
+1631519332464	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967378"
+1631519332468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967390"
+1631519332471	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967394"
+1631519332475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967400"
+1631519332475	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967396"
+1631519332477	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967402"
+1631519332477	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967408"
+1631519332478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967412"
+1631519332478	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967418"
+1631519332479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967422"
+1631519332480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967426"
+1631519332484	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967428"
+1631519332485	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967432"
+1631519332489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1631519332489	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967436"
+1631519337441	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.163.com/"
+[GFX1-]: Unrecognized feature WEBRENDER
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dingce\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

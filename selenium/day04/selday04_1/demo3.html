@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function selchks() {
+            a = document.getElementsByName('h')
+            for(i = 0 ;i < a.length ;i++){
+                alert(a[i].value)
+            }
+        }
+        function selAll() {
+            h = document.getElementsByName('h')
+            for(i = 0 ;i < h.length ;i++) {
+                h[i].checked = true
+            }
+        }
+        function selnoAll() {
+            h = document.getElementsByName('h')
+            for(i = 0 ;i <h.length ;i++){
+                h[i].checked = false
+            }
+        }
+        function reverse() {
+            h = document.getElementsByName('h')
+            for(i = 0 ;i <h.length ;i++) {
+                if(h[i].checked == true) {
+                    h[i].checked = false
+                }
+                else{
+                    h[i].checked = true
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="button" value="反选" onclick="reverse()">
+    <input type="button" value="全不选" onclick="selnoAll()">
+    <input type="button" value="全选" onclick="selAll()">
+    <input type="button" value="所有选项值" onclick="selchks()"><br>
+    爱好：
+    <input type="checkbox" name="h" value="fo">足球
+    <input type="checkbox" name="h" value="ba">篮球
+    <input type="checkbox" name="h" value="te">网球
+    <input type="checkbox" name="h" value="vo">排球
+    <input type="checkbox" name="h" value="pi">乒乓球
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function getVal() {
+            a = document.getElementById('con')
+            alert(a.value) //文本框中的内容
+        }
+        function setVal() {
+            a = document.getElementById('con')
+            a.value = 'hello' //设置文本框内容
+        }
+        function claVal() {
+            c = document.getElementById('con')
+            c.value = "" //清空文本框
+        }
+    </script>
+</head>
+<body>
+    <input type="text" id="con"><br>
+    <input type="button" value="获取内容" onclick="getVal()">
+    <input type="button" value="设置内容" onclick="setVal()">
+    <input type="button" value="清空内容"
+           onclick="claVal()">
+</body>
+</html>

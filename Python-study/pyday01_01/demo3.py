@@ -1,0 +1,14 @@
+a=10
+b=20
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+c=30
+d=4
+print(c%d)
+print(a+b-c*d-c%d)
+s1='hello,'
+s2='world'
+print(s1+s2)
+print(s1+str(a))

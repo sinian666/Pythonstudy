@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function getAttr() {//获取属性值
+            a = document.getElementById('a')
+            alert(a.getAttribute('size'))
+            alert(a.getAttribute('maxlength'))
+        }
+        function setAttr() {//修改属性值
+            a = document.getElementById('a')
+            a.setAttribute('size',20)
+            a.setAttribute('maxlength' , 3)
+        }
+        function remAttr() {//删除属性
+            a = document.getElementById('a')
+            a.removeAttribute('maxlength')
+        }
+    </script>
+</head>
+<body>
+    <input type="text" size="30" maxlength="5" id="a"><br>
+    <input type="button" value="获取属性值" onclick="getAttr()">
+    <input type="button" value="修改属性值" onclick="setAttr()">
+    <input type="button" value="删除属性"
+           onclick="remAttr()">
+</body>
+</html>

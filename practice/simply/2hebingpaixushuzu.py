@@ -1,18 +1,18 @@
 class Solution:
     def mergeSortedArray(self,A,B):
         i, j = 0, 0
-        C =[]
+        C =[ ]
         while i<len(A) and j < len(B):
             if A[i] < B[j]:
                 C.append(A[i])
-                i+=1
+                i =i+1
             else:
                 C.append(B[j])
-                j+=1
+                j =j+1
         while  i< len(A):
             C.append(A[i])
             i += 1
-        while j<len(B[j]):
+        while j<len(B):
             C.append(B[j])
             j += 1
         return C
@@ -24,9 +24,9 @@ if __name__ == '__mian__':
     D = [1,2,3,4]
     E = [2,4,5,6]
     solution = Solution()
-    print ("输入：",A,"",B)
+    print ("输入：", A," ", B)
     print ("输出：",solution.mergeSortedArray(A,B))
-    print ("输入：",D,"",E)
+    print ("输入：", D," ", E)
     print ("输出：",solution.mergeSortedArray(D,E))
 
 

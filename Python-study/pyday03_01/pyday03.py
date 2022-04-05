@@ -118,7 +118,7 @@ a(1,2,3)#【1 2 3 hello】
 x=89
 y=True
 z=6.5#先赋值，赋值以后再调用
-a1=(x,y,z)#【1 2 3 hello】
+a(x,y,z)#【1 2 3 hello】
 def a2(num):
     print(num)#这里的问题没有搞明白，一会看看
 s=2
